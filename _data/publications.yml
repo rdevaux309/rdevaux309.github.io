@@ -1,11 +1,41 @@
 main:
 
+  - title: "Look Before You Lift: Visual and Quantitative Diagnostics for Topological Deep Learning"
+    authors: Mathilde Papillon*, Guillermo Bernardez*, Álvaro Ballón Barreiro, Marco Montagna, <strong>Rémi Devaux</strong>, Antoine JARDIN, Nina Miolane  (*Corresponding author)
+    conference_short: TAG-DS 2026
+    conference: Topology, Algebra, and Geometry in Data Science <strong>(TAG-DS)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2608.15388
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Proceedings, Poster Session
+    image: ./assets/img/hero.gif
+
   - title: "An Experimental Method to Study Opinion Diffusion in Human-AI Hybrid Societies"
     authors: Léna Gaubert*, <strong>Rémi Devaux</strong>, Elif Çelen, Raja Marjieh, Diana Mangalagiu, Antoine Jardin, Nori Jacoby Yaoyao Liu, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun (*Corresponding author)
     conference_short: CogSci 2026
-    conference: The Annual Meeting of the Cognitive Science Society <strong>(CogSci)</strong>, 2026.
+    conference: Proceedings of the Annual Meeting of the Cognitive Science Society, 48.
     pdf: https://arxiv.org/pdf/2605.09197
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: Proceedings, Oral Presentation
     image: ./assets/img/cogsci_teaser.png
+
+  - title: "Topological Deep Learning Challenge 2025: Expanding the Data Landscape"
+    authors: Bernardez* et al. (*Corresponding author)
+    conference_short: PMLR
+    conference: Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science (<strong>TAG-DS</strong>, 2025)
+    pdf: https://raw.githubusercontent.com/mlresearch/v321/main/assets/bernardez26a/bernardez26a.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Proceedings
+    image: ./assets/img/tdl_challenge_2025_teaser.jpg
+
+  - title: "Externalities across Advertising Markets"
+    authors: <strong>Rémi Devaux</strong>, Olivier Bomsel
+    conference_short: J. Media Econ.
+    conference: Journal of Media Economics, 2022
+    pdf: https://www.tandfonline.com/doi/10.1080/08997764.2022.2099875
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Journal Article
+    image: ./assets/img/externalities_teaser.png
