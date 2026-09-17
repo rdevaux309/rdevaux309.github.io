@@ -8,7 +8,7 @@ main:
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Proceedings, Poster Session
-    image: ./assets/img/hero.gif
+    image: ./assets/img/topoexplore_teaser.gif
 
   - title: "An Experimental Method to Study Opinion Diffusion in Human-AI Hybrid Societies"
     authors: Léna Gaubert*, <strong>Rémi Devaux</strong>, Elif Çelen, Raja Marjieh, Diana Mangalagiu, Antoine Jardin, Nori Jacoby Yaoyao Liu, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun (*Corresponding author)
@@ -31,7 +31,7 @@ main:
     image: ./assets/img/tdl_challenge_2025_teaser.jpg
 
   - title: "Externalities across Advertising Markets"
-    authors: <strong>Rémi Devaux</strong>, Olivier Bomsel
+    authors: <strong>Rémi Devaux*</strong>, Olivier Bomsel (*Corresponding author)
     conference_short: J. Media Econ.
     conference: Journal of Media Economics, 2022
     pdf: https://www.tandfonline.com/doi/10.1080/08997764.2022.2099875
