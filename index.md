@@ -15,9 +15,10 @@ Hello! I am a researcher working on machine and deep learning applied to social 
 
 ## News
 
+- **[Oct. 2026]** New working paper online on [*Deep Clustering*](https://arxiv.org/abs/2609.32570) on **Arxiv**
 - **[Sep. 2026]** Grateful to serve as an Area Chair for the [*NeurReps Workshop*](https://neurreps.org/) (**NeurIPS** 2026)
 - **[Aug. 2026]** In Boston for the presentation of our paper [*TopoExplorer*](https://arxiv.org/abs/2608.15388)  (**TAG-DS** 2026)
-- **[Jul. 2020]** In Rio for the presentation of our paper on [*hybrid societies*](https://arxiv.org/abs/2605.09197) (**CogSci** 2026)
+- **[Jul. 2020]** In Rio for the presentation of our paper on [*Hybrid societies*](https://arxiv.org/abs/2605.09197) (**CogSci** 2026)
 - **[May. 2026]** Presentation at the PEPR AI Days about Geometric Deep Learning [[Slides]](./assets/files/Arlequin_PEPR_AI_Days.pdf) [[Video]](https://youtu.be/p_neYZqoWbQ?si=n2DyZhBXzIZv3VDl&t=795)
 
 
