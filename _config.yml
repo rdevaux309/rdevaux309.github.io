@@ -14,7 +14,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=WrD80M0AAAAJ
 linkedin: https://www.linkedin.com/in/r%C3%A9mi-devaux-5191b194/
-cv_link: assets/files/curriculum_vitae.pdf
+# cv_link: assets/files/curriculum_vitae.pdf  # uncomment once a CV is uploaded to show the CV button
 # github_link: https://github.com/
 # twitter: https://twitter.com/
 
